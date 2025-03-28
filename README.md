@@ -8,9 +8,3 @@ Este projeto é parte do meu TCC, onde realizo uma análise detalhada do histór
 - **DataFrames**: Os dataframes usados na análise.
 - **Análise**: O notebook Jupyter contendo a análise detalhada.
 - **Artigo**: O artigo do TCC em formato PDF.
-
-## Como rodar o código
-
-1. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
